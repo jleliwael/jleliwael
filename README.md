@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis Wael Jleli 👋</h1>
+<h1 align="center">Salut, je suis Wael Jleli </h1>
 <p align="center">
   <b>Élève ingénieur en Génie Télécommunication Embarqué à l'ENISo</b><br>
   Cybersécurité · Cloud & DevOps · Réseaux · IA
